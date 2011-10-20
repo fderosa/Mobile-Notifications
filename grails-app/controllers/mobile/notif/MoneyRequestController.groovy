@@ -11,5 +11,6 @@ class MoneyRequestController {
 	
 	def ediRequest = {
 		//acá deberíamos procesar los parametros y hacer el post a google
+		//
 		}
 }
